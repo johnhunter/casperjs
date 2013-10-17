@@ -2,6 +2,7 @@
   "name": "casperjs",
   "description": "Navigation scripting & testing utility for PhantomJS",
   "version": "1.1.0-DEV",
+  "private": true,
   "keywords": [
     "phantomjs",
     "javascript"
@@ -14,7 +15,6 @@
     }
   ],
   "dependencies": {
-    "http://www.phantomjs.org/": "master"
   },
   "bugs": {
     "url": "https://github.com/n1k0/casperjs/issues"
@@ -22,7 +22,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "git://github.com/n1k0/casperjs.git"
+      "url": "git://github.com/johnhunter/casperjs.git"
     }
   ],
   "licenses": [
